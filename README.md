@@ -1,2 +1,2 @@
-# Bot-es
+# Botões
 Pequenos Botões RGB
